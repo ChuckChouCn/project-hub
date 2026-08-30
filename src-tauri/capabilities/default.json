@@ -1,0 +1,10 @@
+{
+  "identifier": "default",
+  "description": "Default capability for Project Hub",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "shell:allow-open",
+    "dialog:allow-open"
+  ]
+}
